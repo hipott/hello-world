@@ -1,2 +1,2 @@
 # hello-world
-test project - first github exercise
+test project * first github exercise
